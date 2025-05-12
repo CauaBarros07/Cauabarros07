@@ -1,4 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Cauã!
+
+## 🛠️ Technologies & Skills
+
+- **Languages:** C#, Java, C++, C, Python, JavaScript  
+- **Frameworks:** .NET, ASP.NET  
+- **Tools & Concepts:** Object-Oriented Programming (OOP), REST APIs, Git, Visual Studio
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [seu-email@example.com](mailto:cauabarros07@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/cauahoradebarros)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 <!--
 **CauaBarros07/Cauabarros07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
